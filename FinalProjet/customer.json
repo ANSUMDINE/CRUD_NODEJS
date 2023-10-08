@@ -1,0 +1,48 @@
+[
+    {
+      "id": 1,
+      "name": "Nom1",
+      "firstName": "Prénom1",
+      "dateOfBirth": "1990-05-15",
+      "address": "Adresse1",
+      "phoneNumber": "123-456-7890",
+      "points": 100
+    },
+    {
+      "id": 2,
+      "name": "Nom2",
+      "firstName": "Prénom2",
+      "dateOfBirth": "1985-08-22",
+      "address": "Adresse2",
+      "phoneNumber": "987-654-3210",
+      "points": 75
+    },
+    {
+      "id": 3,
+      "name": "Nom3",
+      "firstName": "Prénom3",
+      "dateOfBirth": "1995-03-10",
+      "address": "Adresse3",
+      "phoneNumber": "456-789-0123",
+      "points": 120
+    },
+    {
+      "id": 4,
+      "name": "Nom4",
+      "firstName": "Prénom4",
+      "dateOfBirth": "1980-11-28",
+      "address": "Adresse4",
+      "phoneNumber": "789-012-3456",
+      "points": 90
+    },
+    {
+      "id": 5,
+      "name": "Nom5",
+      "firstName": "Prénom5",
+      "dateOfBirth": "1998-09-05",
+      "address": "Adresse5",
+      "phoneNumber": "234-567-8901",
+      "points": 110
+    }
+  ]
+  
